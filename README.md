@@ -1,1 +1,1 @@
-Trojan
+clash.yaml模板
